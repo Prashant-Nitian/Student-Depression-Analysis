@@ -15,8 +15,7 @@ to identify key factors affecting stress and anxiety levels.
 - Prepared cleaned dataset for visualization
 
 ## 📈 Dashboards
-- Overview Dashboard
-- Academic Pressure vs Stress Dashboard
+- Interacting Dashboard to understand the key factors of depression
 
 ## 🔗 Live Tableau Dashboard
 👉https://public.tableau.com/app/profile/prashant.ranjan2836/viz/StudentDepressionAnalysis_17690227135630/StudentDepressionAnalysis
