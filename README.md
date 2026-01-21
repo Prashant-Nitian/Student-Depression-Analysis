@@ -1,2 +1,29 @@
-# Student-Depression-Analysis
-End-to-end data analysis project using SQL for data cleaning and Tableau for interactive dashboard visualization.
+# Student Mental Health Analysis – Tableau
+
+## 📊 Project Overview
+This project focuses on analyzing student mental health data using SQL and Tableau
+to identify key factors affecting stress and anxiety levels.
+
+## 🛠 Tools Used
+- MySQL (Data Cleaning & Transformation)
+- Excel
+- Tableau Public
+
+## 🧹 Data Cleaning Process
+- Removed null and inconsistent values using SQL
+- Created derived columns such as Age Group and Stress Category
+- Prepared cleaned dataset for visualization
+
+## 📈 Dashboards
+- Overview Dashboard
+- Academic Pressure vs Stress Dashboard
+
+## 🔗 Live Tableau Dashboard
+👉 https://public.tableau.com/views/your-dashboard-link
+
+## 🔍 Key Insights
+- Students with high academic pressure show higher stress levels
+- Balanced study hours are associated with better mental health
+
+## 🖼 Dashboard Preview
+![Dashboard Preview](images/dashboard_preview.png)
