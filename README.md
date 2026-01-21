@@ -27,3 +27,5 @@ to identify key factors affecting stress and anxiety levels.
 
 ## 🖼 Dashboard Preview
 
+## 📊 Dashboard Preview
+![Student Mental Health Dashboard](images/dashboard_preview.png)
