@@ -27,3 +27,4 @@ to identify key factors affecting stress and anxiety levels.
 
 ## 🖼 Dashboard Preview
 
+![image alt](https://github.com/Prashant-Nitian/Student-Depression-Analysis/blob/main/Student_Depression_Analysis_Dash.png?raw=true)
