@@ -19,11 +19,11 @@ to identify key factors affecting stress and anxiety levels.
 - Academic Pressure vs Stress Dashboard
 
 ## 🔗 Live Tableau Dashboard
-👉 https://public.tableau.com/views/your-dashboard-link
+👉https://public.tableau.com/app/profile/prashant.ranjan2836/viz/StudentDepressionAnalysis_17690227135630/StudentDepressionAnalysis
 
 ## 🔍 Key Insights
 - Students with high academic pressure show higher stress levels
 - Balanced study hours are associated with better mental health
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+
